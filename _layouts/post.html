@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="post">
+  <p class="content-subhead">UPDATE {{ page.date | date: "%b %-d, %Y" }} by <a class="post-author" href="http://twitter.com/{{ page.author-twitter }}">{{ page.author }}</a></p>
+  <section class="post">  
+    <h1> {{ page.title }} </h1>
+    {{  content }} 
+    <p>[<a href="{{ page.url | prepend: site.baseurl }}">permalink</a>] </p>
+  </section>  
+</div> 

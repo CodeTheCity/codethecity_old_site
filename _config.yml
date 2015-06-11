@@ -1,0 +1,20 @@
+# Site settings
+title: Code The City - Civic hacking done right
+email: Steve@codethecity.org
+description: "Code The City is a civic hacking initiative, operating hack weekends, workshops, and publishing idea creation tools."
+baseurl: ""
+url: "http://codethecity.org"
+
+sass:
+ sass_dir: _sass
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  hacks:
+    output: true
+    permalink: /hacks/:path/  
+  pasthacks:
+    output: true
+    permalink: /hacks/:path/ 

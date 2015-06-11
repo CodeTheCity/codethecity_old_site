@@ -1,0 +1,66 @@
+---
+layout: event
+title: "First Codethecity"
+display_title: "Codethecity Aberdeen, 21st-22nd June, 2014"
+intro: "The first ever codethecity, held in Aberdeen, UK. Eight projects, over 50 attendees, and a huge amount of sandwiches."
+datemark: "June 2014"
+img: /assets/hacks/uk/aberdeen/ctc1.jpg
+---
+ 
+
+<h3>Code The City Aberdeen. 21st-22nd June, 2014</h3>
+<h4>Meston Building, Old Aberdeen Campus, University of Aberdeen</h4>
+
+<p><img src="img/BADGE-ABERDEEN.png" class="pull-right"/>Our cities are changing, life in our cities is changing. Access to services is one of the key benefits of locating in a city, but many services are difficult to access. Knowing that they exist, finding where they are, when they are, and who is involved can be a struggle.</p>
+
+<p>We aim to fix that.</p>
+
+<p>At code the city you’ll help a passionate group of volunteers to build new tools and services to help people in your community access existing services and even start new ones. </p>
+
+<h4>At Code the City we focus on some key areas:</h4>
+
+<ul>
+    <li>Achieving social good</li>
+    <li>Improving local services </li>
+    <li>Sharing skills and knowledge across disciplines</li>
+    <li>Using and creating open data and Open Government Data (OGD)</li>
+    <li>Open source</li>
+    <li>Quick delivery of real results</li>
+</ul>
+
+<p>Over the course of the weekend you will help to deliver prototype services to assist our communities in accessing existing services, and to help facilitate the creation of new services. These prototypes will take the form of websites, web apps and more.</p>
+
+<p>With access to exciting technology and data, and supported by experts in various fields, this is an excellent opportunity to work closely with a passionate team on problems that matter. </p>
+
+<h4>Who should come?</h4>
+
+<p>We don’t just need coders - we need designers, writers, service providers, community members, anyone interested in getting involved in improving our city through data.</p>
+
+<h4>What languages / platforms will be used?</h4>
+
+<p>If you’re a coder then whatever languages you know, and whatever platforms you work with you’ll find a way to contribute to Code the City. We have people using ruby, python, php, .net and several other systems already signed up. We expect that HTML and CSS may be the most important skills on the day to help make ideas real.</p>
+
+<h4>What do you need to take?</h4>
+
+<p>If you plan to code please bring a laptop with a suitable development environment, and an extension lead is also useful if you have one available.</p>
+
+<p>For non-coders just bring your enthusiasm and any tools you think will help you to contribute.</p>
+
+<h4>What will we provide?</h4>
+
+<ul>
+    <li>Food and beverages to keep you going during the event</li>
+    <li>Possible ideas to get you started</li>
+    <li>Sticky notes and pens to capture ideas</li>
+    <li>Facilitators to help you form teams and aid your work</li>
+</ul>
+
+<h4>What do I do now?</h4>
+<p>If you would like to take part please reserve a place by <a href="https://www.eventbrite.co.uk/e/code-the-city-aberdeen-tickets-11608576565">clicking here</a>. Places are free, and the weekend is fully catered, so it helps greatly to know the numbers to expect.</p>
+
+<a href="/assets/poster-2a.pdf"><img src="/img/postermini.jpg" alt="event poster" class="pull-left"></a>
+
+<h4>Help spread the word</h4>
+
+<p>If you have a noticeboard at your work / club we'd also appreciate it if you could print and display our poster to help spread the word.</p>
+<p>Just <a href="/assets/poster-2a.pdf">click here</a> to download the PDF.</p>

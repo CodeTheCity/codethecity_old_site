@@ -1,0 +1,102 @@
+#speakers{
+  background:#0A1F2C;
+  border-top:10px solid #07A19B;
+  border-bottom:10px solid #07A19B;
+  color:#FFF;
+  div.wrap{
+  @include outer-container;
+  }
+}
+	.comment-intro{
+		padding-top:1em;
+		h1{ 
+			color:#FFF; 
+		}
+		p{ 
+			color:#e0e0e0;
+		}
+	}
+.comment {
+  $comment-gutter: 1.4em;
+  $comment-image-padding: 1em;
+  $comment-image-width: 10em;
+  $comment-color: $base-font-color;
+  $comment-background: lighten($base-accent-color, 15);
+  $comment-detail-color: #07A19B ;// transparentize($comment-color, .5);
+  $comment-image-vert-alignment: top;
+	$base-spacing:1em;
+  a{
+    color:#09D4CC;
+  }
+	padding-top:1em;
+
+    @include media($large-screen) {
+  display: table;
+}
+  width: 100%;
+  margin-bottom: $base-spacing;
+  padding-bottom: 1em;
+  border-bottom: 1px solid transparentize($comment-color, .9);
+
+
+  .comment-image,
+  .comment-content {
+    display: table-cell;
+    vertical-align: $comment-image-vert-alignment;
+  }
+
+.comment-content{
+  img{
+    float:right;
+    width:8em;
+  }
+}
+  .comment-image {
+    padding-right: $comment-gutter;
+
+    > img {
+      width: $comment-image-width;
+      height: auto;
+      border-radius: $base-border-radius;
+      padding: $comment-image-padding;
+     // background: $comment-background;
+      display: block;
+      max-width: none;
+    }
+
+    .comment-reverse-order & {
+      padding-right: 0;
+      padding-left: 10px;
+    }
+  }
+
+  .comment-content {
+    width: 100%;
+
+    h1 {
+      font-size: 2em;
+      margin-bottom: .5em;
+    }
+
+    p {
+      margin-bottom: .5em;
+    }
+
+    p.comment-detail {
+      font-style: italic;
+      font-size: .9em;
+      color: $comment-detail-color;
+    }
+  }
+}
+
+
+#team{
+  background:#fff;
+  border-top:10px solid #07A19B;
+  border-bottom:10px solid #07A19B;
+  color:#333;
+  div.wrap{
+  @include outer-container;
+  }
+}

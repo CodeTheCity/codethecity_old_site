@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "CodeTheCity 2 Review"
+date:   2014-10-22 12:43:39
+categories: aberdeen
+author: Steve Milne
+author-twitter: stevenmilne
+---
+
+The second code the city saw a large number of new faces, aswell as several returning contributors, gather in Old Aberdeen for the weekend of 18th/19th October 2014 to hack around the topics of [Sports, Health and Wellbeing](/hacks/uk/aberdeen/2014-10-sports-fitness-wellbeing/). We also progressed some projects from the first codethecity, most notably the Matchthecity project which was adopted as a key aspect of several of the weekends projects.
+
+<img src="/assets/hacks/uk/aberdeen/ctc2.jpg" />
+
+You can relive the action blow by blow at our [tumblr](http://codethecity.tumblr.com), check out the project code on [github](http://github.com/codethecity), and join the discussion on the [#ctc2 hashtag](https://twitter.com/hashtag/ctc2?src=hash) on twitter.
+
+If you have any questions please [get in touch](mailto:steve@digitadelivery.co.uk). 

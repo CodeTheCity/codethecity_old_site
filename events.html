@@ -1,0 +1,31 @@
+---
+layout: default
+title: "Events"
+display_title: "Events"
+---
+
+<h1>Upcoming Events</h1>
+
+{% for post in site.hacks reversed %}
+  <div class="speak">
+    <aside><img src="{{ post.img }}" alt=""></aside>
+    <section> 
+    	<h1><a href="{{ post.url }}">{{ post.display_title }}</a></h1>  
+      {{ post.datemark }}
+      {{ post.intro }}
+   	</section>
+  </div>      
+{% endfor %}   
+
+<h1>Recent Events</h1>
+
+{% for post in site.pasthacks reversed %}
+<div class="speak">
+    <aside><img src="{{ post.img }}" alt=""></aside>
+    <section> 
+    	<h1><a href="{{ post.url }}">{{ post.display_title }}</a></h1>  
+      {{ post.datemark }}
+      {{ post.intro }}
+   	</section>
+  </div>  
+{% endfor %}   

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "CodeTheCity 3 - Community Information"
+date:   2015-01-20 08:43:39
+categories: aberdeen
+author: Steve Milne
+author-twitter: stevenmilne
+---
+
+The City Council, the local Health Service, and multiple organisations in the public and 3rd sectors all store and present information on local groups, associations, clubs and societies,  in various ways.
+ 
+This poses challenges for the organisations, for those supplying the data, and for the public who need access to it. At the next Codethecity we aim to tackle these challenges. You can <a href="/hacks/uk/aberdeen/2015-03-codethecity-aberdeen-3/">find out more</a> and <a href="https://www.eventbrite.co.uk/e/codethecity-aberdeen-feb-2015-tickets-15416650617">book a free ticket here</a>.
+
+<a href="/hacks/uk/aberdeen/2015-03-codethecity-aberdeen-3/"><img src="/assets/hacks/uk/aberdeen/ctc3.jpg" /></a>
+ 
+If you have any questions please [get in touch](mailto:steve@codethecity.org). 

@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="post">
+  <section class="post">  
+  	<img src="{{ page.img }}" />
+    <h1 > {{ page.display_title }} </h1>
+    {{ page.content }} 
+    <p>[<a href="{{ page.url | prepend: site.baseurl }}">permalink</a>] </p>
+  </section>  
+</div>

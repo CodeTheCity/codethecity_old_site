@@ -1,0 +1,28 @@
+---
+layout: home
+title: "Codethecity - civic hacking, open data, co-creation"
+description: "Code The City is a civic hacking initiative, operating hack weekends, workshops, and publishing idea creation tools."
+display_title: "Announcing CodeTheCity Aberdeen"
+---
+   
+{% for post in site.posts limit:4 %}
+ 
+<div class="post">
+  <section class="post">  
+    <h1 > <a href="{{ post.url }}"> {{ post.title }} </a> <br /><b>{{ post.date | date: "%b %-d, %Y" }}</b></h1>
+    {{ post.content }} 
+  </section>  
+</div> 
+{% endfor %}   
+ 
+<div class="post">
+  <section class="post">  
+    <h1 >OLDER POSTS:</h1>
+    {% for post in site.posts limit:30 offset:4 %}
+    	<h3> <a href="{{ post.url }}"> {{ post.title }} </a> <br /><b>{{ post.date | date: "%b %-d, %Y" }}</b></h3> 
+		{% endfor %}   
+  </section>  
+</div> 
+
+
+ 

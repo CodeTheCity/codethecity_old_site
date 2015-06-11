@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "CodeTheCity 4 - Environment"
+date:   2015-04-02 08:43:39
+categories: aberdeen
+author: Steve Milne
+author-twitter: stevenmilne
+---
+
+##Code The City returns 20th and 21st June 2015
+
+
+Our next CodeTheCity weekend will be the biggest ever - with workshops happening in Aberdeen and Edinburgh simultaneously.
+
+There is still a handful of tickets available for [Aberdeen ](https://www.eventbrite.co.uk/e/codethecity-4-environment-tickets-16785390555) and, while the [Edinburgh](https://www.eventbrite.com/e/codethecity-edinburgh-environment-tickets-16841252640) leg is now fully subscribed there is a waiting list to which you can add your name.
+
+We’re also looking for bloggers, videographers, photographers to assist with capturing the weekend and to publish their work here. If you want to get involved  please sign up for a ticket.
+
+We’ll be working with Edinburgh University, Aberdeen University, Ordnance Survey, Edinburgh Apps, the City of Edinburgh Council, Aberdeen City Council and others to bring you two days of civic hacking based on an environmental theme.
+
+There will be the opportunity to collaborate between locations - with some video updates each day. We’ll announce the details on the Saturday morning.
+
+We’ve  posted some seed ideas for projects you might want to tackle on our [wiki](https://github.com/CodeTheCity/codethecity-4-environment/wiki/Project-Ideas) but feel free to suggest your own (there’s a link on that page).
+
+Each council is publishing new environmental open datasets ahead of the weekend. Keep an eye on [Aberdeen](http://opendata.aberdeencity.gov.uk/dataset) and [Edinburgh’s](http://www.edinburghopendata.info/dataset) pages for more details.
+
+Come along, have some fun, meet new people, learn new skills, build something awesome and get fed!
+ 
+
+<img src="/assets/hacks/uk/aberdeen/ctc4.jpg" /> 
+ 
+If you have any questions please [get in touch](mailto:steve@codethecity.org). 

@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Codethecity 4"
+title: "Codethecity 5"
 display_title: "Codethecity Aberdeen 5"
 intro: "Our next CodeTheCity weekend will take place on the weekend of 24th and 25th October 2015."
 datemark: "24th and 25th October 2015"

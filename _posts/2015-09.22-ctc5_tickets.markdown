@@ -9,7 +9,7 @@ author-twitter: watt62
 
 Tickets are now available for Code The City #5 which returns on 24th and 25th October 2015.
  
-You can ook tickets [here](https://www.eventbrite.co.uk/e/codethecity-5-culture-tickets-18742322792?aff=es2).
+You can book tickets [here](https://www.eventbrite.co.uk/e/codethecity-5-culture-tickets-18742322792?aff=es2).
 
 The theme this time is Culture - and we'll shortly be posting some interesting potential projects that attendees wmight want to work on on our Github pages. Watch this space.
 

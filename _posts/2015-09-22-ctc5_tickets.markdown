@@ -13,7 +13,7 @@ You can book tickets [here](https://www.eventbrite.co.uk/e/codethecity-5-culture
 
 The theme this time is Culture.
 
-We've started a [wiki[(https://github.com/CodeTheCity/codethecity-5-culture/wiki) which has project ideas, a call for project suggestions, and a schedule for the weeekend.
+We've started a [wiki](https://github.com/CodeTheCity/codethecity-5-culture/wiki) which has project ideas, a call for project suggestions, and a schedule for the weeekend.
 
 You can find out more about the previous events on [tumblr](http://codethecity.tumblr.com/), on the [eventifier](http://eventifier.com/event/ctc2/), and on [flickr](https://secure.flickr.com/search/?tags=ctc2).
   

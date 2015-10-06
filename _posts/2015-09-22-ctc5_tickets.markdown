@@ -11,7 +11,9 @@ Tickets are now available for Code The City #5 which returns on 24th and 25th Oc
  
 You can book tickets [here](https://www.eventbrite.co.uk/e/codethecity-5-culture-tickets-18742322792?aff=es2).
 
-The theme this time is Culture - and we'll shortly be posting some interesting potential projects that attendees might want to work on on our Github pages. Watch this space.
+The theme this time is Culture.
+
+We've started a [wiki[(https://github.com/CodeTheCity/codethecity-5-culture/wiki) which has project ideas, a call for project suggestions, and a schedule for the weeekend.
 
 You can find out more about the previous events on [tumblr](http://codethecity.tumblr.com/), on the [eventifier](http://eventifier.com/event/ctc2/), and on [flickr](https://secure.flickr.com/search/?tags=ctc2).
   
